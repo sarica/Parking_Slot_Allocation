@@ -16,5 +16,6 @@ public interface ParkingDao {
 	public List<ParkingSlots> readAllParkingSlotsByPremise(ParkingPremise parkingPremise);
 	public List<ParkingSlots> readAllParkingSlotsByFloor(ParkingFloor parkingFloor);
 	public ParkingSlots readParkingSlotsById(long parkingSlotId) throws SQLException;
+	//hi
 
 }
