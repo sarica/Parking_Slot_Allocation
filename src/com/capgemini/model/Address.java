@@ -6,6 +6,6 @@ public class Address {
 	private String city;
 	private String state;
 	private String pin;
-	// this is address.java 
+	// this is address
 	// Constructors, Getter & Setter method
 }
